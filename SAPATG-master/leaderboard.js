@@ -16,13 +16,13 @@ const txt_cont = document.querySelector(".txt_cont");
 let userName;
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD7N60pjSZd2cX5b7sC8VEWkq4DTWYnhyI",
-  authDomain: "sapatg-ba630.firebaseapp.com",
-  projectId: "sapatg-ba630",
-  storageBucket: "sapatg-ba630.appspot.com",
-  messagingSenderId: "213739469633",
-  appId: "1:213739469633:web:af96904eab332a5842bfc0",
-  measurementId: "G-YTGY6LXV2N",
+  apiKey: "AIzaSyC-Z85WYWkYmz8RSq5xQJv3-LBUPqh0-uo",
+  authDomain: "referal-err.firebaseapp.com",
+  databaseURL: "https://referal-err-default-rtdb.firebaseio.com",
+  projectId: "referal-err",
+  storageBucket: "referal-err.firebasestorage.app",
+  messagingSenderId: "802551954765",
+  appId: "1:802551954765:web:259af7c8509c04e94d4b04",
 };
 
 // Initialize Firebase
